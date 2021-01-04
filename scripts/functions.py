@@ -1,1 +1,2 @@
-print('functions example')
+print('functions example!')
+
